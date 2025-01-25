@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://kevincodes.wuaze.com](https://kevincodes.wuaze.com)
+- 👨‍💻 All of my projects are available at [https://kevincodes.me](https://kevincodes.me)
 
 - 💬 Ask me about **React, Andriod , C#**
 
