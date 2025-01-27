@@ -36,3 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinda44&show_icons=true&locale=en" alt="kavinda44" /></p>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@kavinda44/30-nites-of-code)  
+  ![@kavinda44 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kavinda44)
+
