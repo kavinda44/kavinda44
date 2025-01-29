@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Maldives Weather App](https://github.com/FECT-Dev/mv_weather_app_fect.git)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://kevincodes.me](https://kevincodes.me)
 
