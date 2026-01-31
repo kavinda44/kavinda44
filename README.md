@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **nextjs**
 
-- 👨‍💻 All of my projects are available at [https://kevincodes.me](https://kevincodes.me)
+- 👨‍💻 All of my projects are available at [[https://kevincodes.me](https://kevincodes.tech/)]
 
 - 💬 Ask me about **React, Andriod , C#**
 
