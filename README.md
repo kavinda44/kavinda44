@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kavinda44&label=Profile%20views&color=0e75b6&style=flat" alt="kavinda44" /> 
-  <a href="https://twitter.com/kevin_coding" target="_blank"><img src="https://img.shields.io/twitter/follow/kevin_coding?logo=twitter&style=for-the-badge" alt="kevin_coding" /></a> 
+  <a href="[https://twitter.com/kevin_coding](https://www.linkedin.com/in/kavi-dissanayake/)" target="_blank"><img src="https://img.shields.io/twitter/follow/kevin_coding?logo=twitter&style=for-the-badge" alt="kevin_coding" /></a> 
 </p>
 
 - 🔭 I’m currently working on **MediLink**, **VitalSync AI**, and the **Maldives Weather App**
